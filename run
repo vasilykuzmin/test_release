@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "WHY ARE YOU RUNNING?"
+sleep 100

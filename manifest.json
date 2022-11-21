@@ -1,0 +1,6 @@
+{
+    "name": "test_release",
+    "author": "vasilykuzmin",
+    "version": "1.0.0",
+    "run": "./run"
+}
